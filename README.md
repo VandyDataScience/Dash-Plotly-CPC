@@ -1,3 +1,7 @@
+## Description
+This is a Dash Plotly example repo with boilerplate code and complete sample code to get started on 
+building dashboards with Dash Plotly
+
 ## How to use
 First install dependencies
 ``` pip install -r requirements.txt```
